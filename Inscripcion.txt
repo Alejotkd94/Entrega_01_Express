@@ -1,0 +1,8 @@
+<b>Nombre interesado:</b> Alejo
+</br><b>Cedula interesado:</b> 1036652256
+</br>-------------------------------
+</br><b>Información del curso seleccionado</b> 
+</br><b>Id:</b>C05
+</br><b>Nombre curso:</b> Seguridad informatica
+</br><b>Duracion(Horas):</b>120
+</br><b>Valor:</b> $500000
